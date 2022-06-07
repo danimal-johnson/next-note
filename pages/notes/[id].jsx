@@ -1,6 +1,11 @@
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 
+// /** @jsxImportSource theme-ui */
+// /** @jsx jsx */
+// /** @jsxRuntime classic */
+// import { jsx } from 'theme-ui';
+
 // Catch all catch-all route: [...params]
 // Optional catch-all route add one more bracket to the filename: [[...params]]
 
