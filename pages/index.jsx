@@ -4,9 +4,6 @@
 // import { jsx } from 'theme-ui';
 // /** @jsxImportSource theme-ui */
 
-
-import Link from 'next/link';
-
 export default () => {
   
   return (
